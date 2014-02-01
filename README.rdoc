@@ -1,0 +1,1 @@
+Eine Todo-Anwendung mit RoR im Modul "Webentwicklung" im WS 2013/14 an der HWR Berlin von Hussein Hisin.
